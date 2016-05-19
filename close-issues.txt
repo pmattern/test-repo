@@ -1,1 +1,2 @@
 dummy file in branch 'close-issues'
+dummy file in branch 'close-issues'
